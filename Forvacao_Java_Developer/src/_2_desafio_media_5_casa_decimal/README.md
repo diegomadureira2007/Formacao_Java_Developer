@@ -9,7 +9,7 @@ Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2
 
 **ENTRADA**
 
-AO arquivo de entrada contém 2 valores com uma casa decimal cada um.
+O arquivo de entrada contém 2 valores com uma casa decimal cada um.
 
 **SAIDA**
 
