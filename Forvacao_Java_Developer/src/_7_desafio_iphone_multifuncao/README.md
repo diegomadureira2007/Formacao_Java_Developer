@@ -1,18 +1,11 @@
-## Projeto de Loja de Vendas de Livros - Projeto Inicial/POO
+## Projeto Iphone Multifunções - Projeto Inicial/POO
 
-Crie um programa em JAVA que faça:
+Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
-Uma loja vende livros e cadernos;
-Livro tem nome e gênero;
-Já caderno tem quantidade de matérias;
-Ambos possuem preço e uma quantidade que pode ser comprada;
-Os pedidos podem ou não ter um cupom de desconto aplicado ao valor total;
-Este cupom tem código e porcentagem de desconto;
-Os pedidos são de um cliente, qual tem um nome e CPF;
-Os pedidos podem ser só de livros, de cadernos ou ambos;
-O valor do frete varia de acordo com a quantidade de cada item, seu preço e um fator a depender e seu tipo;
-Os tipos para livros são: DRAMA, SUSPENSE e ROMANCE com os fatores 0.15, 0.10 e 0.05 respectivamente. Tal fator é multiplicativo, ao total calculado: preço * quantidade.
-Os tipos de cadernos são: 2, 5 e 10 com os fatores 2, 5 e 10 respectivamente. Tal fator é aditivo, ao total calculado: preço * quantidade.
+Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
 
-O programa deve informar o nome do cliente, seu pedido, a quantidade solicitada o valor total do pedido e o valor do frete.
+###### Comportamentos esperados:
+* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
  
