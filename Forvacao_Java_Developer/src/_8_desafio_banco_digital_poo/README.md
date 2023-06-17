@@ -1,11 +1,8 @@
-## Projeto Iphone Multifunções - Projeto Inicial/POO
+## Projeto Banco Digital - Projeto Inicial/POO
 
-Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
-
-Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
+Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
 
 ###### Comportamentos esperados:
-* Repodutor Musicial: tocar, pausar, selecionarMusica
-* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
-* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+* O programa deve imprimir o saldo da conta correte/poupança
+* O programa deve imprimir os dados do cliente (Nome, Número da conta e Número da Poupança)
  
